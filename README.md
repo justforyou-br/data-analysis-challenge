@@ -70,7 +70,8 @@ Em um parágrago suscinto, responda as seguintes perguntas:
     <li>Quais as conclusões que se pode tirar para a queda de vendas de Março? </li>
     <li>(Opcional) Existe algum outro padrão nos dados analisados que pode ser útil para a tomada de decisão nos negócios da empresa?</li>
 </ol>
-Referencie eventuais imagens geradas por você para embasar as suas conclusões
+
+Referencie as imagens geradas por você para embasar as suas conclusões.
 
 </br>
 
