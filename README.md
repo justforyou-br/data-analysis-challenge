@@ -66,17 +66,23 @@ para extrair os dados do banco de forma programática.
 
 ### Entregas
 Em um parágrago suscinto, responda as seguintes perguntas:
-> 1. Quais as conclusões que se pode tirar para a queda de vendas de Março? </li>
-> 2. (Opcional) Existe algum outro padrão nos dados analisados que pode ser útil para a tomada de decisão nos negócios da empresa?
-
-Referencie eventuais imagens geradas por você para embasar as suas conclusões!
+<ol>
+    <li>Quais as conclusões que se pode tirar para a queda de vendas de Março? </li>
+    <li>(Opcional) Existe algum outro padrão nos dados analisados que pode ser útil para a tomada de decisão nos negócios da empresa?</li>
+</ol>
+Referencie eventuais imagens geradas por você para embasar as suas conclusões
 
 </br>
 
 Devem constar em seu repositório git:
-> * Arquivo de texto com o parágrafo descrito acima
-> * Arquivo .sql contendo as <i>queries</i> utilizadas para obtenção dos dados
-> * Scripts utilizados para análises, caso tenha utilizado algum (exemplo: arquivos .py)
-> * Pasta de imagens contendo:
->   * Gráfico de faturamento por mês
->   * Demais gráficos obtidos nas análises
+<ul>
+    <li>Arquivo de texto com o parágrafo descrito acima</li>
+    <li>Arquivo .sql contendo as <i>queries</i> utilizadas para obtenção dos dados</li>
+    <li>Scripts utilizados para análises, caso tenha utilizado algum (exemplo: arquivos .py)</li>
+    <li>Pasta de imagens contendo:
+        <ul>
+            <li>Gráfico de faturamento por mês</li>
+            <li>Demais gráficos obtidos nas análises</li>
+        </ul>
+    </li>
+</ul>
