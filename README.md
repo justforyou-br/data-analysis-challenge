@@ -51,15 +51,15 @@ Para isso, acesse o banco para coletar os dados, e use os recursos ao seu alcanc
 analisar o problema e apresentar as suas conclusões.
 
 ### Recursos
-Sua empresa contém um banco de dados relacional (Postgres) hospedado remotamente que contém a seguinte
-estrutura de tabelas e relações:
+Sua empresa contém um banco de dados relacional (Postgres) hospedado remotamente, com as credenciais de acesso listadas [aqui](db_access.txt). O banco contém a seguinte estrutura de tabelas e relações:
 
 <div align="center">
     <img src="images/db_uml.png">
 </div>
 
+
 </br>
-Você pode escolher as ferramentas de manipulação e análise de dados, porém <b>deve usar a linguagem SQL</b>
+Você pode escolher as ferramentas de manipulação e análise de dados que quiser, como scripts em Python ou Excel, porém <b>deve usar a linguagem SQL</b>
 para extrair os dados do banco de forma programática.
 
 </br>
