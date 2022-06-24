@@ -65,7 +65,7 @@ para extrair os dados do banco de forma programática.
 </br>
 
 ### Entregas
-Em um parágrago suscinto, responda as seguintes perguntas:
+Em um parágrafo sucinto, responda as seguintes perguntas:
 <ol>
     <li>Quais as conclusões que se pode tirar para a queda de vendas de Março? </li>
     <li>(Opcional) Existe algum outro padrão nos dados analisados que pode ser útil para a tomada de decisão nos negócios da empresa?</li>
