@@ -4,3 +4,7 @@ User: uizliondmcgttz
 Port: 5432
 Password: cb0d11ae81949fc4be4c40d5b3de2e2f623d94b16e12d21f83bdbb50db636373
 URI: postgres://uizliondmcgttz:cb0d11ae81949fc4be4c40d5b3de2e2f623d94b16e12d21f83bdbb50db636373@ec2-54-164-40-66.compute-1.amazonaws.com:5432/deqf9j26o8pgv5
+
+Para acesso em softwares clientes, como o pgAdmin4, as seguintes configurações adicinais devem ser feitas:
+- Maintenace database: deqf9j26o8pgv5
+- DB restriction: deqf9j26o8pgv5
